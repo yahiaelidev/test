@@ -1,0 +1,39 @@
+{
+   "action": {
+      "default_icon": "images/icon.png",
+      "default_popup": "popup/popup.html"
+   },
+   "background": {
+      "service_worker": "/background/background.js",
+      "type": "module"
+   },
+   "content_scripts": [ {
+      "css": [ "style/app.css", "style/toast.css" ],
+      "js": [ "scripts/locale/messages.js", "scripts/libs/sentry.js", "scripts/libs/confetti.js", "scripts/libs/toast/toast.js", "scripts/views/digest.view.js", "scripts/views/quick-filter.view.js", "scripts/views/gmail-native.view.js", "scripts/views/main.view.js", "scripts/views/subscriptions.view.js", "scripts/views/login.view.js", "scripts/views/block-list.view.js", "scripts/views/health.view.js", "scripts/services/message.service.js", "scripts/services/storage.service.js", "scripts/services/user.service.js", "scripts/component.js", "scripts/utils.js", "scripts/app.js" ],
+      "matches": [ "https://mail.google.com/*" ]
+   } ],
+   "content_security_policy": {
+      "extension_pages": "script-src 'self'; object-src 'none';"
+   },
+   "default_locale": "en",
+   "description": "__MSG_extDesc__",
+   "externally_connectable": {
+      "matches": [ "https://*.inboxpurge.com/*" ]
+   },
+   "host_permissions": [ "https://www.googleapis.com/*", "https://api.inboxpurge.com/*", "https://logo.clearbit.com/*", "https://gmail.googleapis.com/*" ],
+   "icons": {
+      "128": "images/icon128.png",
+      "16": "images/icon16.png",
+      "48": "images/icon48.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAhPJ5hwwvgLxEoxZ9qwUjWAmXYbLgqIA8OuNBHY/swF1JU0hF7/HPf+okK3i3WeauffrlrLZlOtz0ktoU3wqlOnx5xH3woLwTGKOjxXfteWlZfUxWdRL9ARJ4Oq8YTMu5p3T8O5CUPl/HmI+F+t9MnrkUzuUPnoneZbCg1LV7oKfOKrV3kp08XIdu7MyqD6i4XHt1bxN8Dt8foS1pDYGjfbop3LnS3gdOEEEfVmBx+cVWIfqPgZUhABYJPsH2XiytU+u3lsv65e0QCAOSrRXzQbzXri4h+aleLuGe4tYVy2KFMZi3JZoMlPQkYNsHjiCnROw+phoGXA7WQhmtoq3BNQIDAQAB",
+   "manifest_version": 3,
+   "name": "__MSG_extName__",
+   "permissions": [ "tabs", "storage" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.7.1",
+   "web_accessible_resources": [ {
+      "matches": [ "https://mail.google.com/*" ],
+      "resources": [ "option/options.html", "images/email.png", "images/logo.png", "images/tour/slide-1.gif", "images/tour/slide-2.gif", "images/tour/slide-3.gif", "images/tour/slide-4.gif", "images/tour/slide-5.gif", "images/tour/slide-6.gif", "images/gif/unsubscribe-warning.gif", "images/gif/unblock-warning.gif", "images/gif/delete-warning.gif", "images/google/btn_google_signin_light_normal_web@2x.png", "images/google/btn_google_signin_dark_normal_web@2x.png" ]
+   } ]
+}

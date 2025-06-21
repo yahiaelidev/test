@@ -1,0 +1,62 @@
+div {
+  display: flex;
+  justify-content: center;
+}
+
+section {
+  width: 350px;
+}
+
+.heading {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  font-weight: bold;
+}
+
+.onboarding {
+  display: flex;
+  flex-direction: column;
+}
+
+.onboarding ol {
+  font-size: 14px;
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+}
+
+.button {
+  display: inline-flex;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  padding: 12px 24px;
+  margin: 8px 0;
+  border-radius: 25px; /* Rounded corners */
+  background-color: #3498db; /* Blue background */
+  color: white; /* White text */
+  text-align: center;
+  text-decoration: none;
+  font-size: 16px;
+  font-weight: bold;
+  border: none; /* No border */
+  cursor: pointer; /* Hand icon on hover */
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Slight shadow */
+  transition: background-color 0.3s, box-shadow 0.3s; /* Smooth transitions */
+}
+
+.button:hover,
+.button:focus {
+  background-color: #2471a3; /* Darker blue on hover/focus */
+  box-shadow: 0 6px 12px rgba(0, 0, 0, 0.3); /* Larger shadow on hover/focus */
+  text-decoration: none; /* Ensures no underline appears */
+  color: white; /* Text remains white on hover/focus */
+}
+
+/* Optional: For accessibility, ensure that the button has a visible focus state */
+.button:focus {
+  outline: 2px solid #fff; /* White outline */
+  outline-offset: 2px; /* Spacing between outline and element */
+}

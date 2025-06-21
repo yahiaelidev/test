@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <link rel="icon" href="/images/email.png" sizes="any" />
+    <link rel="stylesheet" href="options.css" />
+    <title>InboxPurge Options</title>
+  </head>
+  <body>
+    <!-- //LICENSE
+    //MANAGE SUBSCRIPTION
+    //SETTINGS UPGRADE-->
+    <div style="display: flex; margin-bottom: 40px; align-items: center;">
+      <div style="display: flex; flex: 1">
+        <img height="60px" width="60px" src="/images/email.png" alt="inboxpurge-logo" />
+        <div style="font-size: 40px">
+          Inbox<span style="color: #df2a2a">Purge</span>
+        </div>
+      </div>
+
+      <div style="font-size: 15px;">
+        <!-- <a style="margin-right: 5px">Send Review</a>
+        <a style="margin-right: 5px">Manage subscription</a> -->
+        <a href="http://inboxpurge.com/faq?ref=check_faq" target="_blank" rel="noopener noreferrer" style="margin-right: 10px" id="faq-menu">FAQ <svg width="15px" height="15px" viewBox="0 0 24 24" stroke-width="1.5" fill="none" xmlns="http://www.w3.org/2000/svg" color="#000000"><path d="M21 3h-6m6 0l-9 9m9-9v6" stroke="#000000" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path><path d="M21 13v6a2 2 0 01-2 2H5a2 2 0 01-2-2V5a2 2 0 012-2h6" stroke="#000000" stroke-width="1.5" stroke-linecap="round"></path></svg></a>
+        <a href="http://inboxpurge.com/pricing?ref=check_pricing" target="_blank" rel="noopener noreferrer" style="margin-right: 10px" id="pricing-menu">Pricing <svg width="15px" height="15px" viewBox="0 0 24 24" stroke-width="1.5" fill="none" xmlns="http://www.w3.org/2000/svg" color="#000000"><path d="M21 3h-6m6 0l-9 9m9-9v6" stroke="#000000" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path><path d="M21 13v6a2 2 0 01-2 2H5a2 2 0 01-2-2V5a2 2 0 012-2h6" stroke="#000000" stroke-width="1.5" stroke-linecap="round"></path></svg></a>
+        <a href="http://inboxpurge.com/billing?ref=check_billing" target="_blank" rel="noopener noreferrer" style="margin-right: 10px" id="billing-menu">Billing <svg width="15px" height="15px" viewBox="0 0 24 24" stroke-width="1.5" fill="none" xmlns="http://www.w3.org/2000/svg" color="#000000"><path d="M21 3h-6m6 0l-9 9m9-9v6" stroke="#000000" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path><path d="M21 13v6a2 2 0 01-2 2H5a2 2 0 01-2-2V5a2 2 0 012-2h6" stroke="#000000" stroke-width="1.5" stroke-linecap="round"></path></svg></a>
+      </div>
+    </div>
+
+    <div>
+      <div style="display: flex; align-items: center">
+        <h1 id="headline">License</h1>
+        <span style="margin-left: 5px; font-size: 10px" id="active-badge" class="badge hidden">ACTIVE</span>
+        <span 
+          id="inactive-badge"
+          style="margin-left: 5px; font-size: 10px; background: red"
+          class="badge hidden"
+          >INACTIVE</span>
+      </div>
+      
+      <p id="message" style="font-size: 13px;">
+       
+      </p>
+      <div id="loading" class="hidden"><svg width="24" height="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><style>.spinner_GuJz{transform-origin:center;animation:spinner_STY6 1.5s linear infinite}@keyframes spinner_STY6{100%{transform:rotate(360deg)}}</style><g class="spinner_GuJz"><circle cx="3" cy="12" r="2"/><circle cx="21" cy="12" r="2"/><circle cx="12" cy="21" r="2"/><circle cx="12" cy="3" r="2"/><circle cx="5.64" cy="5.64" r="2"/><circle cx="18.36" cy="18.36" r="2"/><circle cx="5.64" cy="18.36" r="2"/><circle cx="18.36" cy="5.64" r="2"/></g></svg></div>
+      <p style="font-size: 15px" id="please-enter-license">
+        Please enter your license key to enjoy unlimited access
+      </p>
+      <form class="search-wrapper cf">
+        <input
+        id="license-key" 
+          type="text"
+          placeholder="Enter your license key here..."
+          required
+          style="box-shadow: none"
+        />
+        <button id="activate-license" type="submit">Activate</button>
+      </form>
+      <p style="font-size: 15px;" id="cant-find-license">
+        Can't find your license key? <a href="http://inboxpurge.com/billing?ref=retrieve_license_key" target="_blank" rel="noopener noreferrer">Retrieve it here </a>
+      </p>
+
+      <p style="font-size: 15px; margin-top:80px" id="dont-have-license">
+        Don't have a license key? <a href="http://inboxpurge.com/pricing?ref=get_license_key" target="_blank" rel="noopener noreferrer">You can buy one here <svg width="15px" height="15px" viewBox="0 0 24 24" stroke-width="1.5" fill="none" xmlns="http://www.w3.org/2000/svg" color="#000000"><path d="M21 3h-6m6 0l-9 9m9-9v6" stroke="#000000" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path><path d="M21 13v6a2 2 0 01-2 2H5a2 2 0 01-2-2V5a2 2 0 012-2h6" stroke="#000000" stroke-width="1.5" stroke-linecap="round"></path></svg></a>
+      </p>
+    </div>
+
+    <script src="options.js"></script>
+  </body>
+</html>
+
+

@@ -1,0 +1,647 @@
+{
+   "activate": {
+      "message": "activer"
+   },
+   "active": {
+      "message": "ACTIF"
+   },
+   "advancedDeletionOption": {
+      "message": "Options de Suppression Avancées"
+   },
+   "allDone": {
+      "message": "Tout est fait !"
+   },
+   "areYouSureYouWantTo": {
+      "message": "Êtes-vous sûr de vouloir"
+   },
+   "atTheTopRight": {
+      "message": "dans le coin supérieur droit."
+   },
+   "atmYouHaveNoSub": {
+      "message": "Pour le moment, vous n'avez aucun abonnement, veuillez réessayer plus tard..."
+   },
+   "availableNewsletters": {
+      "message": "Bulletins disponibles"
+   },
+   "back": {
+      "message": "Retour"
+   },
+   "beginCleaning": {
+      "message": "Commencez le nettoyage!"
+   },
+   "billing": {
+      "message": "Facturation"
+   },
+   "blockList": {
+      "message": "Liste de blocage"
+   },
+   "cantFindYourLicense": {
+      "message": "Vous ne trouvez pas votre clé de licence ?"
+   },
+   "clickOnThe": {
+      "message": "Cliquez sur le"
+   },
+   "clickTheIconToStartClean": {
+      "message": "Cliquez sur l'icône pour commencer le nettoyage"
+   },
+   "closeSidebar": {
+      "message": "Fermer la barre latérale"
+   },
+   "confirm": {
+      "message": "Confirmer"
+   },
+   "considerUpgrading": {
+      "message": "Envisagez de passer à une version supérieure pour un accès illimité"
+   },
+   "contactSupport": {
+      "message": "contacter le support"
+   },
+   "craftedByYou": {
+      "message": "Fabriqué Par Vous"
+   },
+   "createDigest": {
+      "message": "Créer un Digest"
+   },
+   "createYourFirstDigest": {
+      "message": "Créez votre premier résumé maintenant !"
+   },
+   "creatingDigest": {
+      "message": "Création de Digest..."
+   },
+   "customizeDigest": {
+      "message": "Personnalisez les résumés pour qu'ils correspondent à vos habitudes de lecture."
+   },
+   "delete": {
+      "message": "Supprimer"
+   },
+   "deleteAllEmails": {
+      "message": "supprimer TOUS les email(s)"
+   },
+   "deleteAllEmailsFromSelected": {
+      "message": "Supprimer TOUS les courriels sélectionnés"
+   },
+   "deleteConfirmation": {
+      "message": "Confirmation de Suppression"
+   },
+   "deleteLowerCase": {
+      "message": "supprimer"
+   },
+   "deletedSelectedList": {
+      "message": "Liste de diffusion sélectionnée supprimée"
+   },
+   "deleting": {
+      "message": "Suppression"
+   },
+   "deletingEmails": {
+      "message": "Suppression des emails…"
+   },
+   "deselect": {
+      "message": "Désélectionner"
+   },
+   "digestName": {
+      "message": "Nom du résumé"
+   },
+   "digestNamePlaceholder": {
+      "message": "Mon Premier Digest"
+   },
+   "dontHaveALicenseKey": {
+      "message": "Vous n'avez pas de clé de licence ?"
+   },
+   "editDigest": {
+      "message": "Modifier le Digest"
+   },
+   "emails": {
+      "message": "courrier(s) électronique(s)"
+   },
+   "emailsDeleted": {
+      "message": "emails supprimés"
+   },
+   "emailsFromSelected": {
+      "message": "courrier(s) électronique(s) sélectionné(s)"
+   },
+   "enjoy7Days": {
+      "message": "Profitez de vos 7 jours de magie de désencombrement de courrier électronique illimitée!"
+   },
+   "enjoyUnlimitedDecluttering": {
+      "message": "Profitez de votre magie de désencombrement de courrier électronique illimitée!"
+   },
+   "error": {
+      "message": "Erreur"
+   },
+   "errorFetchingBlockList": {
+      "message": "Une erreur s'est produite lors de la récupération de la liste des blocs"
+   },
+   "errorFetchingMailingList": {
+      "message": "Une erreur s'est produite lors de la récupération des listes de diffusion"
+   },
+   "errorOccurred": {
+      "message": "Une erreur s'est produite, veuillez réessayer"
+   },
+   "errorWileSigningIn": {
+      "message": "Une erreur s'est produite lors de la connexion"
+   },
+   "excludeImportantEmails": {
+      "message": "Exclure les emails importants"
+   },
+   "excludeImportantTooltipText": {
+      "message": "Cochez cette case pour empêcher la suppression des e-mails importants. Les e-mails marqués comme 'Important' dans votre boîte de réception seront exclus de la suppression."
+   },
+   "excludeStarredEmails": {
+      "message": "Exclure les emails étoilés"
+   },
+   "excludeStarredTooltipText": {
+      "message": "Sélectionnez cette option pour exclure les emails étoilés de la suppression. Tout email que vous avez étoilé sera préservé."
+   },
+   "expand": {
+      "message": "Développer"
+   },
+   "extDesc": {
+      "message": "Désinscrivez-vous en masse et supprimez les emails indésirables dans Gmail en un clic. Confié par des milliers pour nettoyer vite!"
+   },
+   "extName": {
+      "message": "Désinscription en masse de Gmail & Suppression des emails - InboxPurge"
+   },
+   "faq": {
+      "message": "FAQ"
+   },
+   "forTheBestExperienceExpand": {
+      "message": "Pour une meilleure expérience, veuillez agrandir la fenêtre de votre navigateur"
+   },
+   "freeMailingListDeletes": {
+      "message": "liste de diffusion gratuite supprime ce mois"
+   },
+   "freeUnsubscribesThisMonth": {
+      "message": "désinscriptions gratuites ce mois-ci"
+   },
+   "fromHighToLow": {
+      "message": "Du plus haut au plus bas"
+   },
+   "fromLowToHigh": {
+      "message": "Du plus bas au plus haut"
+   },
+   "fromTheSelected": {
+      "message": "de la sélectionné"
+   },
+   "fromYourSelected": {
+      "message": "de votre sélectionné"
+   },
+   "getALicenseNow": {
+      "message": "Obtenez une licence maintenant !"
+   },
+   "getStartedInASnap": {
+      "message": "Commencez en un clin d'œil"
+   },
+   "gmailAccount": {
+      "message": "Compte Gmail"
+   },
+   "goBack": {
+      "message": "Revenir en arrière"
+   },
+   "groupYourFavNewsletters": {
+      "message": "Regroupez vos newsletters préférées par sujet ou préférence."
+   },
+   "headOverToThe": {
+      "message": "Dirigez-vous vers le"
+   },
+   "icon": {
+      "message": "icône"
+   },
+   "ifYouLovedUsingThisTool": {
+      "message": "Si vous avez aimé utiliser cet outil"
+   },
+   "ifYouNeedHelpPls": {
+      "message": "Si vous avez besoin d'aide, s'il vous plaît"
+   },
+   "inGmailLookFor": {
+      "message": "Dans Gmail, recherchez le"
+   },
+   "inactive": {
+      "message": "INACTIF"
+   },
+   "largeFilesFilterLabel": {
+      "message": "Fichiers volumineux"
+   },
+   "last24Hours": {
+      "message": "Dernières 24 heures"
+   },
+   "last30Days": {
+      "message": "Les 30 derniers jours"
+   },
+   "last7Days": {
+      "message": "7 derniers jours"
+   },
+   "learnHow": {
+      "message": "Apprenez comment"
+   },
+   "learnMore": {
+      "message": "En savoir plus"
+   },
+   "leaveAReview": {
+      "message": "Laisser un avis"
+   },
+   "left": {
+      "message": "gauche"
+   },
+   "license": {
+      "message": "Licence"
+   },
+   "loading": {
+      "message": "Chargement..."
+   },
+   "loginSuccessful": {
+      "message": "Connexion réussie"
+   },
+   "mailingList": {
+      "message": "liste de diffusion"
+   },
+   "manageBilling": {
+      "message": "Gérer la Facturation"
+   },
+   "manageSubscription": {
+      "message": "Gérer l'abonnement"
+   },
+   "maybeLater": {
+      "message": "Peut-être Plus Tard"
+   },
+   "milestoneAchieved": {
+      "message": "Objectif Atteint !"
+   },
+   "milestoneMessage1": {
+      "message": "Vous êtes en route vers une boîte de réception plus propre. Comment trouvez-vous InboxPurge jusqu'à présent ?"
+   },
+   "milestoneMessage2": {
+      "message": "Votre boîte de réception doit se sentir plus légère. Vous dérangerait-il de partager votre expérience avec les autres en laissant un avis ?"
+   },
+   "milestoneMessage3": {
+      "message": "C'est impressionnant! Merci de faire confiance à InboxPurge. Si vous ne l'avez pas déjà fait, nous aimerions entendre vos pensées dans un avis."
+   },
+   "milestoneMessage4": {
+      "message": "Vous êtes un véritable champion d'InboxPurge. Partagez votre histoire de réussite avec les autres en laissant un avis."
+   },
+   "milestoneMessage5": {
+      "message": "Vous avez maîtrisé l'art de la gestion de la boîte de réception. Vos commentaires comptent beaucoup pour nous. Veuillez envisager de laisser un avis si vous ne l'avez pas déjà fait."
+   },
+   "milestoneMessageX": {
+      "message": "Incroyable! Votre engagement envers une boîte de réception sans encombrement est inspirant. Si vous ne l'avez pas déjà fait, nous serions ravis si vous partagiez votre histoire de réussite dans un avis."
+   },
+   "missingRequiredPermission": {
+      "message": "Manque les autorisations requises"
+   },
+   "needHelpMenuTxt": {
+      "message": "Besoin d'aide?"
+   },
+   "newsletterDigestOnDemand": {
+      "message": "Bulletins d'information à la demande"
+   },
+   "next": {
+      "message": "Suivant"
+   },
+   "noEmailsFoundInRange": {
+      "message": "Aucun e-mail trouvé pour la plage sélectionnée. Essayez d'ajuster vos critères ou revenez plus tard!"
+   },
+   "noEmailsRecieved": {
+      "message": "Nombre d'emails reçus"
+   },
+   "noSubscriptionFound": {
+      "message": "Aucun abonnement trouvé !"
+   },
+   "noteThisWillNotUnsubscribe": {
+      "message": "Remarque : Cela ne désabonnera pas ou ne bloquera pas."
+   },
+   "oldJunkFilterLabel": {
+      "message": "Vieux Débris"
+   },
+   "onDemandAccess": {
+      "message": "Accès à la demande"
+   },
+   "oops": {
+      "message": "Oups!"
+   },
+   "openGmail": {
+      "message": "Ouvrir Gmail"
+   },
+   "openInGmail": {
+      "message": "Ouvrir dans Gmail"
+   },
+   "personalizedControl": {
+      "message": "Contrôle Personnalisé"
+   },
+   "plan": {
+      "message": "planifier"
+   },
+   "pleaseEnterYourLicenseKey": {
+      "message": "Veuillez entrer votre clé de licence pour profiter d'un accès illimité"
+   },
+   "pleaseLeaveAReview": {
+      "message": "Veuillez laisser un avis"
+   },
+   "pleaseProvideANameForDigest": {
+      "message": "Veuillez fournir un nom pour votre Digest"
+   },
+   "pleaseRefreshTab": {
+      "message": "Pour que tout fonctionne correctement, pourriez-vous rafraîchir cet onglet, s'il vous plaît?"
+   },
+   "pleaseSelectOneDelete": {
+      "message": "Veuillez sélectionner au moins un abonnement à supprimer !"
+   },
+   "pleaseSelectOneNewsletter": {
+      "message": "Veuillez sélectionner au moins une newsletter à ajouter à votre Digest"
+   },
+   "pleaseSelectOneSub": {
+      "message": "Veuillez sélectionner au moins un abonnement !"
+   },
+   "pleaseSelectOneUnblock": {
+      "message": "Veuillez sélectionner au moins un expéditeur à débloquer!"
+   },
+   "plsProvidePermissions": {
+      "message": "Veuillez fournir à InboxPurge les autorisations nécessaires pour aider à nettoyer votre boîte de réception"
+   },
+   "pricing": {
+      "message": "Tarification"
+   },
+   "productTourMenuTxt": {
+      "message": "Visite du produit"
+   },
+   "productTourSlide1": {
+      "message": "Sélectionnez les emails indésirables mis en évidence par InboxPurge et choisissez de vous désabonner ou de les supprimer en un seul clic!"
+   },
+   "productTourSlide2": {
+      "message": "Alternativement, vous pouvez gérer en masse vos emails avec 'Super Désinscription' et 'Super Suppression' en utilisant la barre d'outils native de Gmail."
+   },
+   "productTourSlide3": {
+      "message": "Vous avez fait une erreur ou changé d'avis ? Il suffit de trouver l'email dans votre liste de blocage et de cliquer sur 'Débloquer' pour rester connecté."
+   },
+   "productTourSlide4": {
+      "message": "Regroupez vos newsletters préférées en résumés personnalisés. Consultez votre contenu organisé à la demande, organisé à votre manière."
+   },
+   "productTourSlide5": {
+      "message": "Explorez les paramètres, écrivez des avis, envoyez des commentaires, obtenez de l'aide, déconnectez-vous à tout moment!"
+   },
+   "productTourSlide6": {
+      "message": "C'est tout! Vous êtes prêt à prendre le contrôle de votre boîte de réception avec InboxPurge. Bon débarras!"
+   },
+   "purchaseForUnlimited": {
+      "message": "Achetez une licence pour profiter d'une expérience illimitée !"
+   },
+   "purchaseLicense": {
+      "message": "Acheter une licence"
+   },
+   "readyForAMorePersonalized": {
+      "message": "Prêt pour une expérience de newsletter plus personnalisée?"
+   },
+   "refresh": {
+      "message": "Actualiser"
+   },
+   "refreshBrowserTab": {
+      "message": "Terminé! Si vous ne voyez pas encore les changements, essayez de rafraîchir votre navigateur."
+   },
+   "refreshDigest": {
+      "message": "Actualiser Digest"
+   },
+   "refreshToSeeChanges": {
+      "message": "Actualisez pour voir les changements"
+   },
+   "removedSoFar": {
+      "message": "supprimé jusqu'à présent"
+   },
+   "rescan": {
+      "message": "Re-scanner"
+   },
+   "retrieveItHere": {
+      "message": "Récupérez-le ici"
+   },
+   "search": {
+      "message": "Recherche"
+   },
+   "searchYourBlockList": {
+      "message": "Recherchez dans votre liste de blocage"
+   },
+   "searchYourSubscriptions": {
+      "message": "Recherchez vos abonnements"
+   },
+   "selectADigest": {
+      "message": "Sélectionnez un Digest"
+   },
+   "selectARange": {
+      "message": "Sélectionnez une plage"
+   },
+   "selectAll": {
+      "message": "Sélectionner Tout"
+   },
+   "selectFaveNewsletters": {
+      "message": "Sélectionnez vos newsletters préférées"
+   },
+   "selected": {
+      "message": "Sélectionné"
+   },
+   "selectedNewslettersDisplayed": {
+      "message": "Les newsletters sélectionnées seront affichées ici"
+   },
+   "sendFeebackMenuTxt": {
+      "message": "Envoyer des commentaires"
+   },
+   "sender": {
+      "message": "expéditeur"
+   },
+   "senders": {
+      "message": "expéditeurs"
+   },
+   "settingsMenuTxt": {
+      "message": "Paramètres"
+   },
+   "signInToUse": {
+      "message": "Connectez-vous pour utiliser"
+   },
+   "signOutMenuTxt": {
+      "message": "Se déconnecter"
+   },
+   "signedOutSuccessfully": {
+      "message": "Déconnecté avec succès"
+   },
+   "somethingWentWrong": {
+      "message": "Quelque chose s'est mal passé, veuillez réessayer plus tard"
+   },
+   "sorryYouHaveExhausted": {
+      "message": "Désolé, vous avez épuisé votre quota gratuit, achetez une licence pour profiter d'une expérience illimitée!"
+   },
+   "sort": {
+      "message": "Trier"
+   },
+   "sortBy": {
+      "message": "Trier par"
+   },
+   "stillProcessing": {
+      "message": "Toujours en traitement... Gestion d'un grand nombre d'e-mails."
+   },
+   "stillSeeingUnwantedEmails": {
+      "message": "Vous voyez toujours des emails indésirables? Utilisez les boutons Super Désinscription ou Super Suppression directement dans Gmail."
+   },
+   "subscriptionLoadingTxt1": {
+      "message": "Analyse de votre boîte de réception pour les abonnements..."
+   },
+   "subscriptionLoadingTxt10": {
+      "message": "Presque là, finalisation de votre liste d'abonnement..."
+   },
+   "subscriptionLoadingTxt11": {
+      "message": "Tri par nombre d'emails reçus..."
+   },
+   "subscriptionLoadingTxt2": {
+      "message": "Compilation d'une liste de vos bulletins d'information..."
+   },
+   "subscriptionLoadingTxt3": {
+      "message": "Tri des vos emails..."
+   },
+   "subscriptionLoadingTxt4": {
+      "message": "Détection de vos emails d'abonnement..."
+   },
+   "subscriptionLoadingTxt5": {
+      "message": "Récupération de vos abonnements..."
+   },
+   "subscriptionLoadingTxt6": {
+      "message": "Recherche de vos newsletters préférées..."
+   },
+   "subscriptionLoadingTxt7": {
+      "message": "Analyse de votre boîte de réception..."
+   },
+   "subscriptionLoadingTxt8": {
+      "message": "Collecte de données sur vos abonnements..."
+   },
+   "subscriptionLoadingTxt9": {
+      "message": "Préparation de votre résumé d'abonnement..."
+   },
+   "subscriptions": {
+      "message": "Abonnements"
+   },
+   "subscriptionsFilterLabel": {
+      "message": "Abonnements"
+   },
+   "success": {
+      "message": "Succès"
+   },
+   "superDelete": {
+      "message": "Super Supprimer"
+   },
+   "superDeleteTooltipText": {
+      "message": "Supprime tous les e-mails des expéditeurs sélectionnés, y compris les e-mails actuellement non visibles."
+   },
+   "superUnsubscribe": {
+      "message": "Super Désabonnement"
+   },
+   "superUnsubscribeTooltipText": {
+      "message": "Se désinscrire en masse des expéditeurs sélectionnés et éventuellement supprimer tous leurs emails"
+   },
+   "thankYouForUsingInboxPurge": {
+      "message": "Merci d'utiliser InboxPurge"
+   },
+   "theSelected": {
+      "message": "le sélectionné"
+   },
+   "thisMightTakeSomeTime": {
+      "message": "cela pourrait prendre un certain temps..."
+   },
+   "toBeginOrganizing": {
+      "message": "Pour commencer à organiser votre boîte de réception sans effort."
+   },
+   "toDelete": {
+      "message": "Pour supprimer"
+   },
+   "toDeleteAllEmails": {
+      "message": "Pour supprimer TOUS les email(s)"
+   },
+   "toUnsubscribeAndDelete": {
+      "message": "Pour vous désabonner et éventuellement supprimer de votre sélectionné"
+   },
+   "today": {
+      "message": "Aujourd'hui"
+   },
+   "unblock": {
+      "message": "Débloquer"
+   },
+   "unblockConfirmation": {
+      "message": "Confirmation de Déblocage"
+   },
+   "unblockLowerCase": {
+      "message": "débloquer"
+   },
+   "unblockedFromSelectedList": {
+      "message": "Liste de diffusion sélectionnée débloquée"
+   },
+   "unblocking": {
+      "message": "Déblocage"
+   },
+   "uniqueSenders": {
+      "message": "expéditeur(s) unique(s)"
+   },
+   "unlimited": {
+      "message": "illimité"
+   },
+   "unlockUnlimitedAccessNow": {
+      "message": "Débloquez un Accès Illimité Maintenant"
+   },
+   "unsubscribe": {
+      "message": "Se désinscrire"
+   },
+   "unsubscribeConfirmation": {
+      "message": "Confirmation de désabonnement"
+   },
+   "unsubscribeLowerCase": {
+      "message": "Se désinscrire"
+   },
+   "unsubscribedFromSelectedList": {
+      "message": "Désabonné de la liste sélectionnée"
+   },
+   "unsubscribes": {
+      "message": "se désabonne"
+   },
+   "unsubscribesAndDeletionsLeft": {
+      "message": "désinscriptions/suppressions restantes"
+   },
+   "unsubscribing": {
+      "message": "Se désabonner"
+   },
+   "updatingDigest": {
+      "message": "Mise à jour du Digest..."
+   },
+   "viewTailoredDigest": {
+      "message": "Consultez vos résumés personnalisés en fonction des plages de temps spécifiées : Aujourd'hui, Dernières 24 heures, 7 derniers jours ou 30 derniers jours."
+   },
+   "waitingForYouToSignIn": {
+      "message": "En attente de votre connexion..."
+   },
+   "welcomeTo": {
+      "message": "Bienvenue à"
+   },
+   "whyGivePermissions": {
+      "message": "Pourquoi?"
+   },
+   "withInboxPurge": {
+      "message": "avec InboxPurge"
+   },
+   "writeReviewsMenuTxt": {
+      "message": "Écrire des avis"
+   },
+   "youAreOnThe": {
+      "message": "Vous êtes sur le"
+   },
+   "youCanBuyOneHere": {
+      "message": "Vous pouvez en acheter un ici"
+   },
+   "youHave": {
+      "message": "Vous avez"
+   },
+   "youHaveSelectedMoreThan": {
+      "message": "Vous avez sélectionné un peu plus que ce qui reste"
+   },
+   "youWantToTidyUpWith": {
+      "message": "vous voulez ranger avec"
+   },
+   "yourBlockListIsEmpty": {
+      "message": "Votre liste de blocage est vide!"
+   },
+   "yourChangesMade": {
+      "message": "Vos modifications ont été effectuées"
+   },
+   "yourSelectedNewsletters": {
+      "message": "Vos bulletins d'information sélectionnés"
+   }
+}

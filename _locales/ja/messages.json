@@ -1,0 +1,647 @@
+{
+   "activate": {
+      "message": "有効にする"
+   },
+   "active": {
+      "message": "アクティブ"
+   },
+   "advancedDeletionOption": {
+      "message": "高度な削除オプション"
+   },
+   "allDone": {
+      "message": "すべて完了しました！"
+   },
+   "areYouSureYouWantTo": {
+      "message": "あなたは本当にそれをしたいですか？"
+   },
+   "atTheTopRight": {
+      "message": "右上隅にて。"
+   },
+   "atmYouHaveNoSub": {
+      "message": "現在、あなたは購読していません、後でもう一度お試しください..."
+   },
+   "availableNewsletters": {
+      "message": "利用可能なニュースレター"
+   },
+   "back": {
+      "message": "バック"
+   },
+   "beginCleaning": {
+      "message": "クリーニングを開始！"
+   },
+   "billing": {
+      "message": "請求書"
+   },
+   "blockList": {
+      "message": "ブロックリスト"
+   },
+   "cantFindYourLicense": {
+      "message": "ライセンスキーが見つかりませんか？"
+   },
+   "clickOnThe": {
+      "message": "次をクリックしてください"
+   },
+   "clickTheIconToStartClean": {
+      "message": "アイコンをクリックしてクリーニングを開始します"
+   },
+   "closeSidebar": {
+      "message": "サイドバーを閉じる"
+   },
+   "confirm": {
+      "message": "確認する"
+   },
+   "considerUpgrading": {
+      "message": "無制限のアクセスのためにアップグレードを検討してください"
+   },
+   "contactSupport": {
+      "message": "サポートに連絡する"
+   },
+   "craftedByYou": {
+      "message": "あなたによって作られた"
+   },
+   "createDigest": {
+      "message": "ダイジェストを作成する"
+   },
+   "createYourFirstDigest": {
+      "message": "今すぐあなたの最初のダイジェストを作成してください！"
+   },
+   "creatingDigest": {
+      "message": "ダイジェストを作成中..."
+   },
+   "customizeDigest": {
+      "message": "あなたの読書習慣に合わせてダイジェストをカスタマイズします。"
+   },
+   "delete": {
+      "message": "削除"
+   },
+   "deleteAllEmails": {
+      "message": "すべてのメールを削除する"
+   },
+   "deleteAllEmailsFromSelected": {
+      "message": "選択したすべてのメールを削除します"
+   },
+   "deleteConfirmation": {
+      "message": "削除の確認"
+   },
+   "deleteLowerCase": {
+      "message": "削除"
+   },
+   "deletedSelectedList": {
+      "message": "選択したメーリングリストを削除しました"
+   },
+   "deleting": {
+      "message": "削除する"
+   },
+   "deletingEmails": {
+      "message": "メールを削除中…"
+   },
+   "deselect": {
+      "message": "選択解除"
+   },
+   "digestName": {
+      "message": "ダイジェスト名"
+   },
+   "digestNamePlaceholder": {
+      "message": "私の最初のダイジェスト"
+   },
+   "dontHaveALicenseKey": {
+      "message": "ライセンスキーがありませんか？"
+   },
+   "editDigest": {
+      "message": "編集ダイジェスト"
+   },
+   "emails": {
+      "message": "電子メール"
+   },
+   "emailsDeleted": {
+      "message": "削除されたメール"
+   },
+   "emailsFromSelected": {
+      "message": "選択したメール（複数可）"
+   },
+   "enjoy7Days": {
+      "message": "あなたの7日間の無制限のメール整理魔法を楽しんでください！"
+   },
+   "enjoyUnlimitedDecluttering": {
+      "message": "あなたの無制限のメール整理魔法を楽しんでください！"
+   },
+   "error": {
+      "message": "エラー"
+   },
+   "errorFetchingBlockList": {
+      "message": "ブロックリストの取得中にエラーが発生しました"
+   },
+   "errorFetchingMailingList": {
+      "message": "メーリングリストの取得中にエラーが発生しました"
+   },
+   "errorOccurred": {
+      "message": "エラーが発生しました、もう一度お試しください"
+   },
+   "errorWileSigningIn": {
+      "message": "サインイン中にエラーが発生しました"
+   },
+   "excludeImportantEmails": {
+      "message": "重要なメールを除外する"
+   },
+   "excludeImportantTooltipText": {
+      "message": "このボックスをチェックすると、重要なメールが削除されるのを防ぐことができます。受信トレイで「重要」とマークされたメールは削除から除外されます。"
+   },
+   "excludeStarredEmails": {
+      "message": "スター付きのメールを除外する"
+   },
+   "excludeStarredTooltipText": {
+      "message": "このオプションを選択して、星印の付いたメールを削除から除外します。星印を付けたメールは保持されます。"
+   },
+   "expand": {
+      "message": "拡張する"
+   },
+   "extDesc": {
+      "message": "一回のクリックでGmailの不要なメールを一括退会し、削除します。何千人ものユーザーに信頼され、迅速に受信トレイをクリーンにします！"
+   },
+   "extName": {
+      "message": "Gmail一括登録解除＆メール削除 - InboxPurge"
+   },
+   "faq": {
+      "message": "よくある質問"
+   },
+   "forTheBestExperienceExpand": {
+      "message": "最適な体験のため、ブラウザウィンドウを拡大してください。"
+   },
+   "freeMailingListDeletes": {
+      "message": "この月に無料メーリングリストを削除します"
+   },
+   "freeUnsubscribesThisMonth": {
+      "message": "この月の無料退会"
+   },
+   "fromHighToLow": {
+      "message": "最高から最低まで"
+   },
+   "fromLowToHigh": {
+      "message": "最低から最高まで"
+   },
+   "fromTheSelected": {
+      "message": "選択されたから"
+   },
+   "fromYourSelected": {
+      "message": "あなたの選択から"
+   },
+   "getALicenseNow": {
+      "message": "今すぐライセンスを取得！"
+   },
+   "getStartedInASnap": {
+      "message": "スナップで始めましょう"
+   },
+   "gmailAccount": {
+      "message": "Gmailアカウント"
+   },
+   "goBack": {
+      "message": "戻る"
+   },
+   "groupYourFavNewsletters": {
+      "message": "あなたのお気に入りのニュースレターをトピックや好みによってグループ化します。"
+   },
+   "headOverToThe": {
+      "message": "次の場所に向かってください"
+   },
+   "icon": {
+      "message": "アイコン"
+   },
+   "ifYouLovedUsingThisTool": {
+      "message": "あなたがこのツールを使うのが好きだったなら"
+   },
+   "ifYouNeedHelpPls": {
+      "message": "あなたが何か助けを必要とするなら、お願いします"
+   },
+   "inGmailLookFor": {
+      "message": "Gmailで、次を探してください"
+   },
+   "inactive": {
+      "message": "非アクティブ"
+   },
+   "largeFilesFilterLabel": {
+      "message": "大きなファイル"
+   },
+   "last24Hours": {
+      "message": "過去24時間"
+   },
+   "last30Days": {
+      "message": "過去30日間"
+   },
+   "last7Days": {
+      "message": "過去7日間"
+   },
+   "learnHow": {
+      "message": "学び方を知る"
+   },
+   "learnMore": {
+      "message": "もっと詳しく知る"
+   },
+   "leaveAReview": {
+      "message": "レビューを残す"
+   },
+   "left": {
+      "message": "左"
+   },
+   "license": {
+      "message": "ライセンス"
+   },
+   "loading": {
+      "message": "読み込んでいます..."
+   },
+   "loginSuccessful": {
+      "message": "ログイン成功"
+   },
+   "mailingList": {
+      "message": "メーリングリスト"
+   },
+   "manageBilling": {
+      "message": "課金を管理する"
+   },
+   "manageSubscription": {
+      "message": "サブスクリプションを管理する"
+   },
+   "maybeLater": {
+      "message": "多分後で"
+   },
+   "milestoneAchieved": {
+      "message": "達成したマイルストーン！"
+   },
+   "milestoneMessage1": {
+      "message": "あなたはよりクリーンな受信トレイへの道を進んでいます。これまでのInboxPurgeの感想はいかがですか？"
+   },
+   "milestoneMessage2": {
+      "message": "あなたの受信箱は軽く感じられるはずです。他の人とあなたの経験を共有するためにレビューを残すことを気にしますか？"
+   },
+   "milestoneMessage3": {
+      "message": "それは素晴らしいです！InboxPurgeを信頼していただきありがとうございます。まだの場合は、レビューであなたの意見を聞かせていただきたいです。"
+   },
+   "milestoneMessage4": {
+      "message": "あなたは真のInboxPurgeのチャンピオンです。レビューを残すことで他の人々とあなたの成功体験を共有してください。"
+   },
+   "milestoneMessage5": {
+      "message": "あなたは受信トレイ管理の芸術をマスターしました。あなたのフィードバックは私たちにとって非常に重要です。まだレビューを残していない場合は、ぜひご検討ください。"
+   },
+   "milestoneMessageX": {
+      "message": "素晴らしい！ 整理整頓された受信トレイへのあなたのコミットメントは、感動的です。まだの場合は、レビューであなたの成功体験を共有していただけると私たちは大喜びです。"
+   },
+   "missingRequiredPermission": {
+      "message": "必要な権限がありません"
+   },
+   "needHelpMenuTxt": {
+      "message": "ヘルプが必要ですか？"
+   },
+   "newsletterDigestOnDemand": {
+      "message": "要求に応じたニュースレターのダイジェスト"
+   },
+   "next": {
+      "message": "次"
+   },
+   "noEmailsFoundInRange": {
+      "message": "選択した範囲に対するメールは見つかりませんでした。基準を調整するか、後で再度確認してみてください！"
+   },
+   "noEmailsRecieved": {
+      "message": "受信したメールの数"
+   },
+   "noSubscriptionFound": {
+      "message": "サブスクリプションが見つかりません！"
+   },
+   "noteThisWillNotUnsubscribe": {
+      "message": "注意：これにより、登録解除やブロックは行われません"
+   },
+   "oldJunkFilterLabel": {
+      "message": "古いジャンク"
+   },
+   "onDemandAccess": {
+      "message": "要求に応じたアクセス"
+   },
+   "oops": {
+      "message": "おっと！"
+   },
+   "openGmail": {
+      "message": "Gmailを開く"
+   },
+   "openInGmail": {
+      "message": "Gmailで開く"
+   },
+   "personalizedControl": {
+      "message": "パーソナライズされたコントロール"
+   },
+   "plan": {
+      "message": "計画"
+   },
+   "pleaseEnterYourLicenseKey": {
+      "message": "無制限のアクセスを楽しむために、ライセンスキーを入力してください。"
+   },
+   "pleaseLeaveAReview": {
+      "message": "レビューを残してください"
+   },
+   "pleaseProvideANameForDigest": {
+      "message": "あなたのダイジェストに名前を付けてください。"
+   },
+   "pleaseRefreshTab": {
+      "message": "すべてがスムーズに動作するように、このタブを更新していただけますか？"
+   },
+   "pleaseSelectOneDelete": {
+      "message": "少なくとも1つのサブスクリプションを削除するために選択してください！"
+   },
+   "pleaseSelectOneNewsletter": {
+      "message": "あなたのダイジェストに追加するために少なくとも1つのニュースレターを選択してください。"
+   },
+   "pleaseSelectOneSub": {
+      "message": "少なくとも1つのサブスクリプションを選択してください！"
+   },
+   "pleaseSelectOneUnblock": {
+      "message": "少なくとも1人の送信者をブロック解除するために選択してください！"
+   },
+   "plsProvidePermissions": {
+      "message": "あなたの受信トレイをクリーニングするのを助けるために、InboxPurgeに必要な権限を提供してください。"
+   },
+   "pricing": {
+      "message": "価格設定"
+   },
+   "productTourMenuTxt": {
+      "message": "製品ツアー"
+   },
+   "productTourSlide1": {
+      "message": "InboxPurgeによって浮かび上がった不要なメールを選択し、ワンクリックでそれらを退会するか削除するかを選択します！"
+   },
+   "productTourSlide2": {
+      "message": "あるいは、Gmailのネイティブツールバーを使用して、「スーパー退会」および「スーパー削除」でメールを一括管理することもできます。"
+   },
+   "productTourSlide3": {
+      "message": "間違えたか、気持ちが変わったか？単純にブロックリストの中からそのメールを見つけて、「ブロック解除」をクリックすれば、再びつながることができます。"
+   },
+   "productTourSlide4": {
+      "message": "あなたのお気に入りのニュースレターをカスタムダイジェストにまとめます。自分の方法で整理したキュレーションコンテンツをオンデマンドで表示します。"
+   },
+   "productTourSlide5": {
+      "message": "設定を探索し、レビューを書き、フィードバックを送信し、助けを求め、いつでもサインアウトしてください！"
+   },
+   "productTourSlide6": {
+      "message": "それでおしまい！あなたはInboxPurgeを使って受信トレイをコントロールする準備が整いました。ハッピーデクラッタリング！"
+   },
+   "purchaseForUnlimited": {
+      "message": "無制限の体験を楽しむためのライセンスを購入してください！"
+   },
+   "purchaseLicense": {
+      "message": "ライセンスを購入する"
+   },
+   "readyForAMorePersonalized": {
+      "message": "もっとパーソナライズされたニュースレター体験の準備はできましたか？"
+   },
+   "refresh": {
+      "message": "更新"
+   },
+   "refreshBrowserTab": {
+      "message": "完了しました！まだ変更が表示されない場合は、ブラウザを更新してみてください。"
+   },
+   "refreshDigest": {
+      "message": "リフレッシュダイジェスト"
+   },
+   "refreshToSeeChanges": {
+      "message": "変更を確認するために更新してください"
+   },
+   "removedSoFar": {
+      "message": "これまでに削除されました"
+   },
+   "rescan": {
+      "message": "再スキャン"
+   },
+   "retrieveItHere": {
+      "message": "ここで取得してください"
+   },
+   "search": {
+      "message": "検索"
+   },
+   "searchYourBlockList": {
+      "message": "あなたのブロックリストを検索します"
+   },
+   "searchYourSubscriptions": {
+      "message": "あなたの購読を検索します"
+   },
+   "selectADigest": {
+      "message": "ダイジェストを選択します"
+   },
+   "selectARange": {
+      "message": "範囲を選択する"
+   },
+   "selectAll": {
+      "message": "すべて選択"
+   },
+   "selectFaveNewsletters": {
+      "message": "あなたのお気に入りのニュースレターを選択してください"
+   },
+   "selected": {
+      "message": "選択した"
+   },
+   "selectedNewslettersDisplayed": {
+      "message": "選択したニュースレターがここに表示されます"
+   },
+   "sendFeebackMenuTxt": {
+      "message": "フィードバックを送信する"
+   },
+   "sender": {
+      "message": "送信者"
+   },
+   "senders": {
+      "message": "送信者"
+   },
+   "settingsMenuTxt": {
+      "message": "設定"
+   },
+   "signInToUse": {
+      "message": "使用するためにサインインしてください"
+   },
+   "signOutMenuTxt": {
+      "message": "サインアウト"
+   },
+   "signedOutSuccessfully": {
+      "message": "正常にサインアウトしました"
+   },
+   "somethingWentWrong": {
+      "message": "何かが間違っていました、後で再試行してください"
+   },
+   "sorryYouHaveExhausted": {
+      "message": "申し訳ありませんが、無料のクオータを使い果たしてしまいました。ライセンスを購入して、無制限の体験をお楽しみください！"
+   },
+   "sort": {
+      "message": "ソート"
+   },
+   "sortBy": {
+      "message": "並び替える"
+   },
+   "stillProcessing": {
+      "message": "まだ処理中... 大量のメールを処理しています。"
+   },
+   "stillSeeingUnwantedEmails": {
+      "message": "まだ望ましくないメールが見えますか？Gmail内で直接Super UnsubscribeボタンまたはSuper Deleteボタンを使用してください。"
+   },
+   "subscriptionLoadingTxt1": {
+      "message": "あなたの受信トレイを購読のためにスキャンしています..."
+   },
+   "subscriptionLoadingTxt10": {
+      "message": "もうすぐ、購読リストの最終化を完了します..."
+   },
+   "subscriptionLoadingTxt11": {
+      "message": "受信メールの数で並べ替え中..."
+   },
+   "subscriptionLoadingTxt2": {
+      "message": "あなたのニュースレターのリストを作成中..."
+   },
+   "subscriptionLoadingTxt3": {
+      "message": "あなたのメールを整理中..."
+   },
+   "subscriptionLoadingTxt4": {
+      "message": "あなたのサブスクリプションメールを検出中..."
+   },
+   "subscriptionLoadingTxt5": {
+      "message": "あなたのサブスクリプションを取得しています..."
+   },
+   "subscriptionLoadingTxt6": {
+      "message": "あなたのお気に入りのニュースレターを探しています..."
+   },
+   "subscriptionLoadingTxt7": {
+      "message": "あなたの受信トレイを分析中..."
+   },
+   "subscriptionLoadingTxt8": {
+      "message": "あなたのサブスクリプションに関するデータを収集中..."
+   },
+   "subscriptionLoadingTxt9": {
+      "message": "あなたのサブスクリプションの概要を準備中..."
+   },
+   "subscriptions": {
+      "message": "サブスクリプション"
+   },
+   "subscriptionsFilterLabel": {
+      "message": "サブスクリプション"
+   },
+   "success": {
+      "message": "成功"
+   },
+   "superDelete": {
+      "message": "スーパー削除"
+   },
+   "superDeleteTooltipText": {
+      "message": "選択した送信者からのすべてのメールを削除します。現在表示されていないメールも含みます。"
+   },
+   "superUnsubscribe": {
+      "message": "スーパー退会"
+   },
+   "superUnsubscribeTooltipText": {
+      "message": "選択した送信者から一括退会し、オプションでそのすべてのメールを削除します"
+   },
+   "thankYouForUsingInboxPurge": {
+      "message": "InboxPurgeをご利用いただきありがとうございます。"
+   },
+   "theSelected": {
+      "message": "選択された"
+   },
+   "thisMightTakeSomeTime": {
+      "message": "これには時間がかかるかもしれません..."
+   },
+   "toBeginOrganizing": {
+      "message": "あなたの受信トレイを簡単に整理し始めるために。"
+   },
+   "toDelete": {
+      "message": "削除する"
+   },
+   "toDeleteAllEmails": {
+      "message": "すべてのメールを削除する"
+   },
+   "toUnsubscribeAndDelete": {
+      "message": "選択したものから登録解除し、オプションで削除するには"
+   },
+   "today": {
+      "message": "今日"
+   },
+   "unblock": {
+      "message": "ブロック解除"
+   },
+   "unblockConfirmation": {
+      "message": "ブロック解除の確認"
+   },
+   "unblockLowerCase": {
+      "message": "ブロック解除"
+   },
+   "unblockedFromSelectedList": {
+      "message": "選択したメーリングリストのブロックを解除しました"
+   },
+   "unblocking": {
+      "message": "ブロック解除"
+   },
+   "uniqueSenders": {
+      "message": "ユニークな送信者"
+   },
+   "unlimited": {
+      "message": "無制限"
+   },
+   "unlockUnlimitedAccessNow": {
+      "message": "今すぐ無制限のアクセスを解除"
+   },
+   "unsubscribe": {
+      "message": "登録解除"
+   },
+   "unsubscribeConfirmation": {
+      "message": "登録解除の確認"
+   },
+   "unsubscribeLowerCase": {
+      "message": "登録解除"
+   },
+   "unsubscribedFromSelectedList": {
+      "message": "選択したリストから退会しました"
+   },
+   "unsubscribes": {
+      "message": "登録解除"
+   },
+   "unsubscribesAndDeletionsLeft": {
+      "message": "残りの登録解除/削除"
+   },
+   "unsubscribing": {
+      "message": "登録解除"
+   },
+   "updatingDigest": {
+      "message": "ダイジェストを更新中..."
+   },
+   "viewTailoredDigest": {
+      "message": "指定された時間範囲に基づいてカスタマイズされたダイジェストを表示します：今日、過去24時間、過去7日間、または過去30日間。"
+   },
+   "waitingForYouToSignIn": {
+      "message": "あなたがサインインするのを待っています..."
+   },
+   "welcomeTo": {
+      "message": "ようこそ"
+   },
+   "whyGivePermissions": {
+      "message": "なぜ？"
+   },
+   "withInboxPurge": {
+      "message": "InboxPurgeを使用して"
+   },
+   "writeReviewsMenuTxt": {
+      "message": "レビューを書く"
+   },
+   "youAreOnThe": {
+      "message": "あなたはその上にいます"
+   },
+   "youCanBuyOneHere": {
+      "message": "ここで1つ購入することができます"
+   },
+   "youHave": {
+      "message": "あなたは持っています"
+   },
+   "youHaveSelectedMoreThan": {
+      "message": "あなたは残りよりも少し多く選択しました。"
+   },
+   "youWantToTidyUpWith": {
+      "message": "あなたは整理整頓したいです"
+   },
+   "yourBlockListIsEmpty": {
+      "message": "あなたのブロックリストは空です！"
+   },
+   "yourChangesMade": {
+      "message": "あなたの変更が行われました"
+   },
+   "yourSelectedNewsletters": {
+      "message": "あなたの選択したニュースレター"
+   }
+}

@@ -1,0 +1,647 @@
+{
+   "activate": {
+      "message": "활성화"
+   },
+   "active": {
+      "message": "활성화"
+   },
+   "advancedDeletionOption": {
+      "message": "고급 삭제 옵션"
+   },
+   "allDone": {
+      "message": "모두 완료되었습니다!"
+   },
+   "areYouSureYouWantTo": {
+      "message": "정말로 하시겠습니까?"
+   },
+   "atTheTopRight": {
+      "message": "오른쪽 상단 모서리에서."
+   },
+   "atmYouHaveNoSub": {
+      "message": "현재 구독이 없습니다, 나중에 다시 시도해 주세요..."
+   },
+   "availableNewsletters": {
+      "message": "사용 가능한 뉴스레터"
+   },
+   "back": {
+      "message": "뒤로"
+   },
+   "beginCleaning": {
+      "message": "청소 시작하세요!"
+   },
+   "billing": {
+      "message": "청구"
+   },
+   "blockList": {
+      "message": "차단 목록"
+   },
+   "cantFindYourLicense": {
+      "message": "라이선스 키를 찾을 수 없나요?"
+   },
+   "clickOnThe": {
+      "message": "\"클릭하세요\""
+   },
+   "clickTheIconToStartClean": {
+      "message": "아이콘을 클릭하여 청소를 시작하십시오"
+   },
+   "closeSidebar": {
+      "message": "사이드바 닫기"
+   },
+   "confirm": {
+      "message": "확인"
+   },
+   "considerUpgrading": {
+      "message": "제한 없는 액세스를 위해 업그레이드를 고려하십시오."
+   },
+   "contactSupport": {
+      "message": "지원팀에 문의하십시오"
+   },
+   "craftedByYou": {
+      "message": "당신이 만든 작품"
+   },
+   "createDigest": {
+      "message": "다이제스트 생성"
+   },
+   "createYourFirstDigest": {
+      "message": "지금 당신의 첫 번째 다이제스트를 만드세요!"
+   },
+   "creatingDigest": {
+      "message": "다이제스트 생성 중..."
+   },
+   "customizeDigest": {
+      "message": "당신의 독서 습관에 맞게 다이제스트를 사용자 정의하십시오."
+   },
+   "delete": {
+      "message": "삭제"
+   },
+   "deleteAllEmails": {
+      "message": "모든 이메일 삭제"
+   },
+   "deleteAllEmailsFromSelected": {
+      "message": "선택한 모든 이메일 삭제"
+   },
+   "deleteConfirmation": {
+      "message": "삭제 확인"
+   },
+   "deleteLowerCase": {
+      "message": "삭제"
+   },
+   "deletedSelectedList": {
+      "message": "선택한 메일링 리스트 삭제"
+   },
+   "deleting": {
+      "message": "삭제 중"
+   },
+   "deletingEmails": {
+      "message": "이메일 삭제 중…"
+   },
+   "deselect": {
+      "message": "선택 취소"
+   },
+   "digestName": {
+      "message": "소화물 이름"
+   },
+   "digestNamePlaceholder": {
+      "message": "나의 첫 번째 다이제스트"
+   },
+   "dontHaveALicenseKey": {
+      "message": "라이선스 키가 없으신가요?"
+   },
+   "editDigest": {
+      "message": "편집 다이제스트"
+   },
+   "emails": {
+      "message": "이메일(들)"
+   },
+   "emailsDeleted": {
+      "message": "이메일이 삭제되었습니다."
+   },
+   "emailsFromSelected": {
+      "message": "선택한 이메일(들)"
+   },
+   "enjoy7Days": {
+      "message": "당신의 무제한 이메일 정리 마법을 7일 동안 즐기십시오!"
+   },
+   "enjoyUnlimitedDecluttering": {
+      "message": "당신의 무제한 이메일 정리 마법을 즐기십시오!"
+   },
+   "error": {
+      "message": "오류"
+   },
+   "errorFetchingBlockList": {
+      "message": "블록 목록을 가져오는 동안 오류가 발생했습니다."
+   },
+   "errorFetchingMailingList": {
+      "message": "메일링 리스트를 가져오는 동안 오류가 발생했습니다."
+   },
+   "errorOccurred": {
+      "message": "오류가 발생했습니다. 다시 시도해 주세요."
+   },
+   "errorWileSigningIn": {
+      "message": "로그인하는 동안 오류가 발생했습니다."
+   },
+   "excludeImportantEmails": {
+      "message": "중요한 이메일 제외"
+   },
+   "excludeImportantTooltipText": {
+      "message": "이 상자를 체크하여 중요한 이메일이 삭제되는 것을 방지하세요. '중요'으로 표시된 이메일은 삭제에서 제외됩니다."
+   },
+   "excludeStarredEmails": {
+      "message": "별표 표시된 이메일 제외"
+   },
+   "excludeStarredTooltipText": {
+      "message": "이 옵션을 선택하면 별표가 있는 이메일을 삭제에서 제외합니다. 별표가 있는 모든 이메일은 보존됩니다."
+   },
+   "expand": {
+      "message": "확장하다"
+   },
+   "extDesc": {
+      "message": "한 번의 클릭으로 Gmail에서 원하지 않는 이메일을 대량으로 구독 취소하고 삭제하세요. 수천 명이 빠르게 메일함을 정리하는 데 신뢰하고 있습니다!"
+   },
+   "extName": {
+      "message": "Gmail 대량 구독 취소 및 이메일 삭제 - InboxPurge"
+   },
+   "faq": {
+      "message": "자주 묻는 질문"
+   },
+   "forTheBestExperienceExpand": {
+      "message": "최상의 경험을 위해 브라우저 창을 확장해 주세요."
+   },
+   "freeMailingListDeletes": {
+      "message": "이번 달에 무료 메일링 목록 삭제"
+   },
+   "freeUnsubscribesThisMonth": {
+      "message": "이번 달 무료 탈퇴"
+   },
+   "fromHighToLow": {
+      "message": "가장 높은 것에서 가장 낮은 것까지"
+   },
+   "fromLowToHigh": {
+      "message": "가장 낮은 것에서 가장 높은 것까지"
+   },
+   "fromTheSelected": {
+      "message": "선택된에서"
+   },
+   "fromYourSelected": {
+      "message": "당신이 선택한 것에서"
+   },
+   "getALicenseNow": {
+      "message": "지금 라이센스를 받으세요!"
+   },
+   "getStartedInASnap": {
+      "message": "즉시 시작하세요"
+   },
+   "gmailAccount": {
+      "message": "Gmail 계정"
+   },
+   "goBack": {
+      "message": "뒤로 가기"
+   },
+   "groupYourFavNewsletters": {
+      "message": "주제 또는 선호에 따라 좋아하는 뉴스레터를 그룹화하십시오."
+   },
+   "headOverToThe": {
+      "message": "다음으로 이동하세요"
+   },
+   "icon": {
+      "message": "아이콘"
+   },
+   "ifYouLovedUsingThisTool": {
+      "message": "이 도구를 사용하는 것이 좋았다면"
+   },
+   "ifYouNeedHelpPls": {
+      "message": "도움이 필요하시면 제발"
+   },
+   "inGmailLookFor": {
+      "message": "Gmail에서 다음을 찾아보세요."
+   },
+   "inactive": {
+      "message": "비활성화"
+   },
+   "largeFilesFilterLabel": {
+      "message": "큰 파일"
+   },
+   "last24Hours": {
+      "message": "지난 24시간"
+   },
+   "last30Days": {
+      "message": "지난 30일"
+   },
+   "last7Days": {
+      "message": "지난 7일"
+   },
+   "learnHow": {
+      "message": "배우는 방법"
+   },
+   "learnMore": {
+      "message": "더 알아보기"
+   },
+   "leaveAReview": {
+      "message": "리뷰 남기기"
+   },
+   "left": {
+      "message": "왼쪽"
+   },
+   "license": {
+      "message": "라이센스"
+   },
+   "loading": {
+      "message": "로딩 중..."
+   },
+   "loginSuccessful": {
+      "message": "로그인 성공"
+   },
+   "mailingList": {
+      "message": "메일링 리스트"
+   },
+   "manageBilling": {
+      "message": "청구 관리"
+   },
+   "manageSubscription": {
+      "message": "구독 관리"
+   },
+   "maybeLater": {
+      "message": "나중에 할게요"
+   },
+   "milestoneAchieved": {
+      "message": "이정표 달성!"
+   },
+   "milestoneMessage1": {
+      "message": "더 깔끔한 인박스로 가는 길에 있습니다. 지금까지 InboxPurge를 어떻게 생각하시나요?"
+   },
+   "milestoneMessage2": {
+      "message": "당신의 받은 편지함이 더 가벼워진 느낌이 드시나요? 다른 사람들과 경험을 공유하기 위해 리뷰를 남겨주실 수 있으신가요?"
+   },
+   "milestoneMessage3": {
+      "message": "그것은 인상적입니다! InboxPurge를 신뢰해 주셔서 감사합니다. 아직 하지 않으셨다면, 리뷰에서 여러분의 생각을 듣고 싶습니다."
+   },
+   "milestoneMessage4": {
+      "message": "당신은 진정한 InboxPurge 챔피언입니다. 리뷰를 남겨서 다른 사람들과 성공 이야기를 공유하세요."
+   },
+   "milestoneMessage5": {
+      "message": "당신은 받은 편지함 관리의 기술을 완벽하게 습득했습니다. 귀하의 피드백은 저희에게 많은 의미를 가지고 있습니다. 아직 리뷰를 남기지 않으셨다면 남겨주시기를 고려해 주세요."
+   },
+   "milestoneMessageX": {
+      "message": "대단합니다! 깔끔한 받은 편지함을 유지하기 위한 당신의 헌신은 감동적입니다. 아직 하지 않았다면, 성공 이야기를 리뷰로 공유해주시면 기쁠 것입니다."
+   },
+   "missingRequiredPermission": {
+      "message": "필요한 권한이 누락되었습니다."
+   },
+   "needHelpMenuTxt": {
+      "message": "도움이 필요하세요?"
+   },
+   "newsletterDigestOnDemand": {
+      "message": "요청에 따른 뉴스레터 다이제스트"
+   },
+   "next": {
+      "message": "다음"
+   },
+   "noEmailsFoundInRange": {
+      "message": "선택한 범위에 대한 이메일이 없습니다. 기준을 조정하거나 나중에 다시 확인해 보세요!"
+   },
+   "noEmailsRecieved": {
+      "message": "받은 이메일 수"
+   },
+   "noSubscriptionFound": {
+      "message": "구독이 발견되지 않았습니다!"
+   },
+   "noteThisWillNotUnsubscribe": {
+      "message": "참고: 이것은 구독 취소 또는 차단하지 않습니다."
+   },
+   "oldJunkFilterLabel": {
+      "message": "오래된 쓰레기"
+   },
+   "onDemandAccess": {
+      "message": "요청 시 액세스"
+   },
+   "oops": {
+      "message": "이런!"
+   },
+   "openGmail": {
+      "message": "Gmail 열기"
+   },
+   "openInGmail": {
+      "message": "Gmail에서 열기"
+   },
+   "personalizedControl": {
+      "message": "맞춤 제어"
+   },
+   "plan": {
+      "message": "계획"
+   },
+   "pleaseEnterYourLicenseKey": {
+      "message": "무제한 액세스를 즐기기 위해 라이선스 키를 입력해 주세요."
+   },
+   "pleaseLeaveAReview": {
+      "message": "리뷰를 남겨 주세요"
+   },
+   "pleaseProvideANameForDigest": {
+      "message": "당신의 다이제스트에 대한 이름을 제공해 주세요."
+   },
+   "pleaseRefreshTab": {
+      "message": "모든 것이 원활하게 작동하도록 이 탭을 새로 고칠 수 있을까요?"
+   },
+   "pleaseSelectOneDelete": {
+      "message": "삭제할 적어도 하나의 구독을 선택해 주세요!"
+   },
+   "pleaseSelectOneNewsletter": {
+      "message": "당신의 다이제스트에 추가할 적어도 하나의 뉴스레터를 선택해 주세요."
+   },
+   "pleaseSelectOneSub": {
+      "message": "적어도 하나의 구독을 선택해 주세요!"
+   },
+   "pleaseSelectOneUnblock": {
+      "message": "적어도 하나의 발신자를 차단 해제하려면 선택하세요!"
+   },
+   "plsProvidePermissions": {
+      "message": "InboxPurge에 필요한 권한을 제공하여 귀하의 인박스 정리를 도와주십시오."
+   },
+   "pricing": {
+      "message": "가격 책정"
+   },
+   "productTourMenuTxt": {
+      "message": "제품 투어"
+   },
+   "productTourSlide1": {
+      "message": "InboxPurge가 표시한 원치 않는 이메일을 선택하고 한 번의 클릭으로 구독 해지 또는 삭제를 선택하세요!"
+   },
+   "productTourSlide2": {
+      "message": "대안적으로, Gmail의 기본 툴바를 사용하여 '슈퍼 언서브스크라이브'와 '슈퍼 삭제'로 이메일을 대량으로 관리할 수 있습니다."
+   },
+   "productTourSlide3": {
+      "message": "실수를 했거나 마음이 바뀌었나요? 단순히 차단 목록에서 이메일을 찾아 '차단 해제'를 클릭하여 연결을 유지하세요."
+   },
+   "productTourSlide4": {
+      "message": "당신이 가장 좋아하는 뉴스레터를 사용자 정의 다이제스트로 그룹화하세요. 원하는 대로 구성된 큐레이션 콘텐츠를 원하는 시간에 확인하세요."
+   },
+   "productTourSlide5": {
+      "message": "설정 탐색, 리뷰 작성, 피드백 보내기, 도움 받기, 언제든지 로그아웃하세요!"
+   },
+   "productTourSlide6": {
+      "message": "그게 다예요! 이제 InboxPurge를 사용하여 받은 편지함을 관리할 준비가 되었습니다. 즐거운 정리 시간 되세요!"
+   },
+   "purchaseForUnlimited": {
+      "message": "무제한 경험을 즐기기 위해 라이센스를 구입하십시오!"
+   },
+   "purchaseLicense": {
+      "message": "라이선스 구매"
+   },
+   "readyForAMorePersonalized": {
+      "message": "더 개인화된 뉴스레터 경험을 준비하셨나요?"
+   },
+   "refresh": {
+      "message": "새로 고침"
+   },
+   "refreshBrowserTab": {
+      "message": "완료! 아직 변경 사항을 보지 못한다면, 브라우저를 새로 고침해보세요."
+   },
+   "refreshDigest": {
+      "message": "새로 고침 다이제스트"
+   },
+   "refreshToSeeChanges": {
+      "message": "변경 사항을 보려면 새로 고치세요"
+   },
+   "removedSoFar": {
+      "message": "지금까지 제거됨"
+   },
+   "rescan": {
+      "message": "다시 스캔"
+   },
+   "retrieveItHere": {
+      "message": "여기에서 검색하세요"
+   },
+   "search": {
+      "message": "검색"
+   },
+   "searchYourBlockList": {
+      "message": "당신의 차단 목록을 검색하십시오"
+   },
+   "searchYourSubscriptions": {
+      "message": "구독 항목 검색"
+   },
+   "selectADigest": {
+      "message": "다이제스트 선택"
+   },
+   "selectARange": {
+      "message": "범위 선택"
+   },
+   "selectAll": {
+      "message": "모두 선택"
+   },
+   "selectFaveNewsletters": {
+      "message": "당신의 가장 좋아하는 뉴스레터를 선택하세요"
+   },
+   "selected": {
+      "message": "선택된"
+   },
+   "selectedNewslettersDisplayed": {
+      "message": "선택된 뉴스레터가 여기에 표시됩니다"
+   },
+   "sendFeebackMenuTxt": {
+      "message": "피드백 보내기"
+   },
+   "sender": {
+      "message": "발신자"
+   },
+   "senders": {
+      "message": "발신자"
+   },
+   "settingsMenuTxt": {
+      "message": "설정"
+   },
+   "signInToUse": {
+      "message": "사용하려면 로그인하세요"
+   },
+   "signOutMenuTxt": {
+      "message": "로그 아웃"
+   },
+   "signedOutSuccessfully": {
+      "message": "성공적으로 로그아웃되었습니다."
+   },
+   "somethingWentWrong": {
+      "message": "무언가 잘못되었습니다, 나중에 다시 시도해 주세요."
+   },
+   "sorryYouHaveExhausted": {
+      "message": "죄송합니다, 무료 할당량을 모두 사용하셨습니다. 무제한 경험을 즐기려면 라이선스를 구입하세요!"
+   },
+   "sort": {
+      "message": "정렬"
+   },
+   "sortBy": {
+      "message": "정렬 기준"
+   },
+   "stillProcessing": {
+      "message": "아직 처리 중... 많은 수의 이메일을 처리하고 있습니다."
+   },
+   "stillSeeingUnwantedEmails": {
+      "message": "여전히 원치 않는 이메일을 보고 계신가요? Gmail에서 Super Unsubscribe 또는 Super Delete 버튼을 직접 사용하세요."
+   },
+   "subscriptionLoadingTxt1": {
+      "message": "구독을 위해 받은 편지함을 스캔 중..."
+   },
+   "subscriptionLoadingTxt10": {
+      "message": "거의 다 왔습니다, 구독 목록을 마무리하는 중..."
+   },
+   "subscriptionLoadingTxt11": {
+      "message": "받은 이메일 수로 정렬 중..."
+   },
+   "subscriptionLoadingTxt2": {
+      "message": "당신의 뉴스레터 목록을 컴파일 중..."
+   },
+   "subscriptionLoadingTxt3": {
+      "message": "당신의 이메일을 정렬하는 중..."
+   },
+   "subscriptionLoadingTxt4": {
+      "message": "당신의 구독 이메일을 감지 중입니다..."
+   },
+   "subscriptionLoadingTxt5": {
+      "message": "구독 정보를 검색하는 중..."
+   },
+   "subscriptionLoadingTxt6": {
+      "message": "당신의 가장 좋아하는 뉴스레터를 찾는 중..."
+   },
+   "subscriptionLoadingTxt7": {
+      "message": "당신의 받은 편지함을 분석 중..."
+   },
+   "subscriptionLoadingTxt8": {
+      "message": "당신의 구독에 대한 데이터를 수집 중..."
+   },
+   "subscriptionLoadingTxt9": {
+      "message": "당신의 구독 요약을 준비 중입니다..."
+   },
+   "subscriptions": {
+      "message": "구독\n"
+   },
+   "subscriptionsFilterLabel": {
+      "message": "구독\n"
+   },
+   "success": {
+      "message": "성공"
+   },
+   "superDelete": {
+      "message": "슈퍼 삭제"
+   },
+   "superDeleteTooltipText": {
+      "message": "선택한 보낸 사람으로부터의 모든 이메일을 삭제합니다. 현재 보이지 않는 이메일도 포함됩니다."
+   },
+   "superUnsubscribe": {
+      "message": "슈퍼 구독 취소"
+   },
+   "superUnsubscribeTooltipText": {
+      "message": "선택한 발신자들로부터 대량으로 구독 취소하고 선택적으로 그들의 모든 이메일을 삭제합니다."
+   },
+   "thankYouForUsingInboxPurge": {
+      "message": "InboxPurge를 사용해 주셔서 감사합니다"
+   },
+   "theSelected": {
+      "message": "선택된"
+   },
+   "thisMightTakeSomeTime": {
+      "message": "이것은 약간의 시간이 걸릴 수 있습니다..."
+   },
+   "toBeginOrganizing": {
+      "message": "당신의 인박스를 수월하게 정리하기 시작하십시오."
+   },
+   "toDelete": {
+      "message": "삭제하려면"
+   },
+   "toDeleteAllEmails": {
+      "message": "모든 이메일을 삭제하려면"
+   },
+   "toUnsubscribeAndDelete": {
+      "message": "구독 해지하고 선택적으로 선택한 항목에서 삭제하려면"
+   },
+   "today": {
+      "message": "오늘"
+   },
+   "unblock": {
+      "message": "차단 해제"
+   },
+   "unblockConfirmation": {
+      "message": "차단 해제 확인"
+   },
+   "unblockLowerCase": {
+      "message": "차단 해제"
+   },
+   "unblockedFromSelectedList": {
+      "message": "선택된 메일링 목록의 차단을 해제했습니다"
+   },
+   "unblocking": {
+      "message": "차단 해제"
+   },
+   "uniqueSenders": {
+      "message": "고유 발신자(들)"
+   },
+   "unlimited": {
+      "message": "무제한"
+   },
+   "unlockUnlimitedAccessNow": {
+      "message": "지금 무제한 접근을 해제하세요"
+   },
+   "unsubscribe": {
+      "message": "구독 취소"
+   },
+   "unsubscribeConfirmation": {
+      "message": "구독 취소 확인"
+   },
+   "unsubscribeLowerCase": {
+      "message": "구독 취소"
+   },
+   "unsubscribedFromSelectedList": {
+      "message": "선택한 목록에서 구독 취소됨"
+   },
+   "unsubscribes": {
+      "message": "구독 취소"
+   },
+   "unsubscribesAndDeletionsLeft": {
+      "message": "남은 구독 취소/삭제"
+   },
+   "unsubscribing": {
+      "message": "구독 취소"
+   },
+   "updatingDigest": {
+      "message": "다이제스트 업데이트 중..."
+   },
+   "viewTailoredDigest": {
+      "message": "지정된 시간 범위에 따른 맞춤형 요약을 확인하세요: 오늘, 지난 24시간, 지난 7일, 또는 지난 30일."
+   },
+   "waitingForYouToSignIn": {
+      "message": "로그인을 기다리는 중..."
+   },
+   "welcomeTo": {
+      "message": "환영합니다"
+   },
+   "whyGivePermissions": {
+      "message": "왜?"
+   },
+   "withInboxPurge": {
+      "message": "InboxPurge를 사용하여"
+   },
+   "writeReviewsMenuTxt": {
+      "message": "리뷰 작성"
+   },
+   "youAreOnThe": {
+      "message": "당신은 이곳에 있습니다."
+   },
+   "youCanBuyOneHere": {
+      "message": "여기에서 하나를 구매할 수 있습니다."
+   },
+   "youHave": {
+      "message": "당신은 가지고 있습니다"
+   },
+   "youHaveSelectedMoreThan": {
+      "message": "당신은 남아있는 것보다 조금 더 많이 선택했습니다."
+   },
+   "youWantToTidyUpWith": {
+      "message": "당신은 정리하고 싶어합니다."
+   },
+   "yourBlockListIsEmpty": {
+      "message": "당신의 차단 목록은 비어 있습니다!"
+   },
+   "yourChangesMade": {
+      "message": "당신의 변경 사항이 만들어졌습니다."
+   },
+   "yourSelectedNewsletters": {
+      "message": "당신이 선택한 뉴스레터"
+   }
+}

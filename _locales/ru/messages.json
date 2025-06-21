@@ -1,0 +1,647 @@
+{
+   "activate": {
+      "message": "активировать"
+   },
+   "active": {
+      "message": "АКТИВНЫЙ"
+   },
+   "advancedDeletionOption": {
+      "message": "Расширенные Опции Удаления"
+   },
+   "allDone": {
+      "message": "Все сделано!"
+   },
+   "areYouSureYouWantTo": {
+      "message": "Вы уверены, что хотите"
+   },
+   "atTheTopRight": {
+      "message": "в верхнем правом углу."
+   },
+   "atmYouHaveNoSub": {
+      "message": "В настоящее время у вас нет подписок, пожалуйста, попробуйте снова позже..."
+   },
+   "availableNewsletters": {
+      "message": "Доступные новостные рассылки"
+   },
+   "back": {
+      "message": "Назад"
+   },
+   "beginCleaning": {
+      "message": "Начать уборку!"
+   },
+   "billing": {
+      "message": "Выставление счетов"
+   },
+   "blockList": {
+      "message": "Список Блокировок"
+   },
+   "cantFindYourLicense": {
+      "message": "Не можете найти свой лицензионный ключ?"
+   },
+   "clickOnThe": {
+      "message": "Нажмите на"
+   },
+   "clickTheIconToStartClean": {
+      "message": "Нажмите на иконку, чтобы начать уборку"
+   },
+   "closeSidebar": {
+      "message": "Закрыть боковую панель"
+   },
+   "confirm": {
+      "message": "Подтвердить"
+   },
+   "considerUpgrading": {
+      "message": "Рассмотрите возможность обновления для неограниченного доступа"
+   },
+   "contactSupport": {
+      "message": "связаться с поддержкой"
+   },
+   "craftedByYou": {
+      "message": "Создано Вами"
+   },
+   "createDigest": {
+      "message": "Создать Дайджест"
+   },
+   "createYourFirstDigest": {
+      "message": "Создайте свой первый дайджест сейчас!"
+   },
+   "creatingDigest": {
+      "message": "Создание дайджеста..."
+   },
+   "customizeDigest": {
+      "message": "Настройте дайджесты, чтобы они соответствовали вашим чтениям."
+   },
+   "delete": {
+      "message": "Удалить"
+   },
+   "deleteAllEmails": {
+      "message": "удалить ВСЕ электронные письма"
+   },
+   "deleteAllEmailsFromSelected": {
+      "message": "Удалить ВСЕ электронные письма из выбранных"
+   },
+   "deleteConfirmation": {
+      "message": "Подтверждение удаления"
+   },
+   "deleteLowerCase": {
+      "message": "удалить"
+   },
+   "deletedSelectedList": {
+      "message": "Удален выбранный список рассылки"
+   },
+   "deleting": {
+      "message": "Удаление"
+   },
+   "deletingEmails": {
+      "message": "Удаление электронных писем…"
+   },
+   "deselect": {
+      "message": "Снять выделение"
+   },
+   "digestName": {
+      "message": "Название дайджеста"
+   },
+   "digestNamePlaceholder": {
+      "message": "Мой Первый Дайджест"
+   },
+   "dontHaveALicenseKey": {
+      "message": "У вас нет лицензионного ключа?"
+   },
+   "editDigest": {
+      "message": "Редактировать Дайджест"
+   },
+   "emails": {
+      "message": "электронная почта(ы)"
+   },
+   "emailsDeleted": {
+      "message": "удаленные электронные письма"
+   },
+   "emailsFromSelected": {
+      "message": "электронное(-ые) письмо(-а) от выбранного"
+   },
+   "enjoy7Days": {
+      "message": "Наслаждайтесь 7 днями безграничной магии упорядочивания электронной почты!"
+   },
+   "enjoyUnlimitedDecluttering": {
+      "message": "Наслаждайтесь неограниченной магией разгрома вашей электронной почты!"
+   },
+   "error": {
+      "message": "Ошибка"
+   },
+   "errorFetchingBlockList": {
+      "message": "Произошла ошибка при получении списка блокировок"
+   },
+   "errorFetchingMailingList": {
+      "message": "Произошла ошибка при получении списков рассылки"
+   },
+   "errorOccurred": {
+      "message": "Произошла ошибка, пожалуйста, попробуйте еще раз"
+   },
+   "errorWileSigningIn": {
+      "message": "Произошла ошибка при входе в систему"
+   },
+   "excludeImportantEmails": {
+      "message": "Исключить важные электронные письма"
+   },
+   "excludeImportantTooltipText": {
+      "message": "Отметьте этот флажок, чтобы предотвратить удаление важных писем. Письма, помеченные как 'Важные' в вашем почтовом ящике, будут исключены из удаления."
+   },
+   "excludeStarredEmails": {
+      "message": "Исключить отмеченные письма"
+   },
+   "excludeStarredTooltipText": {
+      "message": "Выберите эту опцию, чтобы исключить помеченные звездочкой электронные письма из удаления. Любое письмо, которое вы отметили звездочкой, будет сохранено."
+   },
+   "expand": {
+      "message": "Развернуть"
+   },
+   "extDesc": {
+      "message": "Массовая отписка и удаление нежелательных писем в Gmail одним кликом. Доверяют тысячи для быстрой очистки почтовых ящиков!"
+   },
+   "extName": {
+      "message": "Отписаться от рассылки Gmail и удалить письма - InboxPurge"
+   },
+   "faq": {
+      "message": "ЧАВО"
+   },
+   "forTheBestExperienceExpand": {
+      "message": "Для наилучшего опыта, пожалуйста, расширьте окно вашего браузера"
+   },
+   "freeMailingListDeletes": {
+      "message": "Бесплатный список рассылки удаляет этот месяц"
+   },
+   "freeUnsubscribesThisMonth": {
+      "message": "бесплатные отписки в этом месяце"
+   },
+   "fromHighToLow": {
+      "message": "От самого высокого до самого низкого"
+   },
+   "fromLowToHigh": {
+      "message": "От самого низкого до самого высокого"
+   },
+   "fromTheSelected": {
+      "message": "из выбранного"
+   },
+   "fromYourSelected": {
+      "message": "из вашего выбранного"
+   },
+   "getALicenseNow": {
+      "message": "Получите лицензию сейчас!"
+   },
+   "getStartedInASnap": {
+      "message": "Начните в одно мгновение"
+   },
+   "gmailAccount": {
+      "message": "Учетная запись Gmail"
+   },
+   "goBack": {
+      "message": "Вернуться"
+   },
+   "groupYourFavNewsletters": {
+      "message": "Группируйте ваши любимые рассылки по темам или предпочтениям."
+   },
+   "headOverToThe": {
+      "message": "Перейдите к"
+   },
+   "icon": {
+      "message": "значок"
+   },
+   "ifYouLovedUsingThisTool": {
+      "message": "Если вам понравилось использовать этот инструмент"
+   },
+   "ifYouNeedHelpPls": {
+      "message": "Если вам нужна помощь, пожалуйста"
+   },
+   "inGmailLookFor": {
+      "message": "В Gmail ищите следующее"
+   },
+   "inactive": {
+      "message": "НЕАКТИВНЫЙ"
+   },
+   "largeFilesFilterLabel": {
+      "message": "Большие файлы"
+   },
+   "last24Hours": {
+      "message": "Последние 24 часа"
+   },
+   "last30Days": {
+      "message": "Последние 30 дней"
+   },
+   "last7Days": {
+      "message": "Последние 7 дней"
+   },
+   "learnHow": {
+      "message": "Узнайте как"
+   },
+   "learnMore": {
+      "message": "Узнать больше"
+   },
+   "leaveAReview": {
+      "message": "Оставить отзыв"
+   },
+   "left": {
+      "message": "левый"
+   },
+   "license": {
+      "message": "Лицензия"
+   },
+   "loading": {
+      "message": "Загрузка..."
+   },
+   "loginSuccessful": {
+      "message": "Вход выполнен успешно"
+   },
+   "mailingList": {
+      "message": "список рассылки"
+   },
+   "manageBilling": {
+      "message": "Управление Биллингом"
+   },
+   "manageSubscription": {
+      "message": "Управление подпиской"
+   },
+   "maybeLater": {
+      "message": "Может быть позже"
+   },
+   "milestoneAchieved": {
+      "message": "Достигнутый этап!"
+   },
+   "milestoneMessage1": {
+      "message": "Вы на пути к более чистому почтовому ящику. Как вам пока нравится InboxPurge?"
+   },
+   "milestoneMessage2": {
+      "message": "Ваш почтовый ящик, должно быть, стал легче. Не могли бы вы поделиться своим опытом с другими, оставив отзыв?"
+   },
+   "milestoneMessage3": {
+      "message": "Это впечатляет! Спасибо за доверие InboxPurge. Если вы еще не сделали этого, мы бы хотели услышать ваше мнение в отзыве."
+   },
+   "milestoneMessage4": {
+      "message": "Вы настоящий чемпион InboxPurge. Поделитесь своей историей успеха с другими, оставив отзыв."
+   },
+   "milestoneMessage5": {
+      "message": "Вы освоили искусство управления почтовым ящиком. Ваш отзыв очень важен для нас. Пожалуйста, оставьте отзыв, если вы еще этого не сделали."
+   },
+   "milestoneMessageX": {
+      "message": "Невероятно! Ваше стремление к аккуратному почтовому ящику вдохновляет. Если вы еще этого не сделали, мы были бы в восторге, если бы вы поделились своей историей успеха в отзыве."
+   },
+   "missingRequiredPermission": {
+      "message": "Отсутствуют необходимые разрешения"
+   },
+   "needHelpMenuTxt": {
+      "message": "Нужна помощь?"
+   },
+   "newsletterDigestOnDemand": {
+      "message": "Дайджесты рассылки по требованию"
+   },
+   "next": {
+      "message": "Следующий"
+   },
+   "noEmailsFoundInRange": {
+      "message": "Не найдено электронных писем для выбранного диапазона. Попробуйте скорректировать свои критерии или проверьте позже!"
+   },
+   "noEmailsRecieved": {
+      "message": "Количество полученных электронных писем"
+   },
+   "noSubscriptionFound": {
+      "message": "Подписки не найдены!"
+   },
+   "noteThisWillNotUnsubscribe": {
+      "message": "Примечание: это не отменит подписку или блокировку."
+   },
+   "oldJunkFilterLabel": {
+      "message": "Старый Мусор"
+   },
+   "onDemandAccess": {
+      "message": "Доступ по требованию"
+   },
+   "oops": {
+      "message": "Ой!"
+   },
+   "openGmail": {
+      "message": "Открыть Gmail"
+   },
+   "openInGmail": {
+      "message": "Открыть в Gmail"
+   },
+   "personalizedControl": {
+      "message": "Персонализированный контроль"
+   },
+   "plan": {
+      "message": "план"
+   },
+   "pleaseEnterYourLicenseKey": {
+      "message": "Пожалуйста, введите ваш лицензионный ключ, чтобы наслаждаться неограниченным доступом"
+   },
+   "pleaseLeaveAReview": {
+      "message": "Пожалуйста, оставьте отзыв"
+   },
+   "pleaseProvideANameForDigest": {
+      "message": "Пожалуйста, предоставьте название для вашего Дайджеста"
+   },
+   "pleaseRefreshTab": {
+      "message": "Чтобы все работало без сбоев, не могли бы вы обновить эту вкладку?"
+   },
+   "pleaseSelectOneDelete": {
+      "message": "Пожалуйста, выберите хотя бы одну подписку для удаления!"
+   },
+   "pleaseSelectOneNewsletter": {
+      "message": "Пожалуйста, выберите хотя бы одну рассылку для добавления в ваш Дайджест"
+   },
+   "pleaseSelectOneSub": {
+      "message": "Пожалуйста, выберите хотя бы одну подписку!"
+   },
+   "pleaseSelectOneUnblock": {
+      "message": "Пожалуйста, выберите хотя бы одного отправителя для разблокировки!"
+   },
+   "plsProvidePermissions": {
+      "message": "Пожалуйста, предоставьте InboxPurge необходимые разрешения для помощи в очистке вашего почтового ящика."
+   },
+   "pricing": {
+      "message": "Ценообразование"
+   },
+   "productTourMenuTxt": {
+      "message": "Тур продукта"
+   },
+   "productTourSlide1": {
+      "message": "Выберите нежелательные письма, выявленные с помощью InboxPurge, и выберите, отписаться от них или удалить их одним кликом!"
+   },
+   "productTourSlide2": {
+      "message": "В качестве альтернативы, вы можете управлять своими электронными письмами в больших объемах с помощью 'Super Unsubscribe' и 'Super Delete', используя встроенную панель инструментов Gmail."
+   },
+   "productTourSlide3": {
+      "message": "Совершили ошибку или передумали? Просто найдите письмо в вашем списке блокировок и нажмите 'Разблокировать', чтобы оставаться на связи."
+   },
+   "productTourSlide4": {
+      "message": "Группируйте ваши любимые рассылки в пользовательские дайджесты. Просматривайте отобранный контент по запросу, организованный по-вашему."
+   },
+   "productTourSlide5": {
+      "message": "Исследуйте настройки, пишите отзывы, отправляйте отзывы, получайте помощь, выходите в любое время!"
+   },
+   "productTourSlide6": {
+      "message": "Вот и все! Вы полностью готовы взять под контроль свой почтовый ящик с помощью InboxPurge. Приятного уборки!"
+   },
+   "purchaseForUnlimited": {
+      "message": "Приобретите лицензию, чтобы наслаждаться неограниченным опытом!"
+   },
+   "purchaseLicense": {
+      "message": "Приобрести лицензию"
+   },
+   "readyForAMorePersonalized": {
+      "message": "Готовы к более персонализированному опыту чтения новостных рассылок?"
+   },
+   "refresh": {
+      "message": "Обновить"
+   },
+   "refreshBrowserTab": {
+      "message": "Готово! Если вы еще не видите изменений, попробуйте обновить браузер."
+   },
+   "refreshDigest": {
+      "message": "Обновить Дайджест"
+   },
+   "refreshToSeeChanges": {
+      "message": "Обновите, чтобы увидеть изменения"
+   },
+   "removedSoFar": {
+      "message": "удалено на данный момент"
+   },
+   "rescan": {
+      "message": "Пересканировать"
+   },
+   "retrieveItHere": {
+      "message": "Получите его здесь"
+   },
+   "search": {
+      "message": "Поиск"
+   },
+   "searchYourBlockList": {
+      "message": "Поиск в вашем списке блокировок"
+   },
+   "searchYourSubscriptions": {
+      "message": "Поиск ваших подписок"
+   },
+   "selectADigest": {
+      "message": "Выберите дайджест"
+   },
+   "selectARange": {
+      "message": "Выберите диапазон"
+   },
+   "selectAll": {
+      "message": "Выбрать все"
+   },
+   "selectFaveNewsletters": {
+      "message": "Выберите ваши любимые новостные рассылки"
+   },
+   "selected": {
+      "message": "Выбрано"
+   },
+   "selectedNewslettersDisplayed": {
+      "message": "Выбранные новостные рассылки будут отображаться здесь"
+   },
+   "sendFeebackMenuTxt": {
+      "message": "Отправить отзыв"
+   },
+   "sender": {
+      "message": "отправитель"
+   },
+   "senders": {
+      "message": "отправители"
+   },
+   "settingsMenuTxt": {
+      "message": "Настройки"
+   },
+   "signInToUse": {
+      "message": "Войдите, чтобы использовать"
+   },
+   "signOutMenuTxt": {
+      "message": "Выйти"
+   },
+   "signedOutSuccessfully": {
+      "message": "Успешно вышли из системы"
+   },
+   "somethingWentWrong": {
+      "message": "Что-то пошло не так, пожалуйста, попробуйте снова позже"
+   },
+   "sorryYouHaveExhausted": {
+      "message": "Извините, вы исчерпали свой бесплатный лимит, купите лицензию, чтобы наслаждаться неограниченным опытом!"
+   },
+   "sort": {
+      "message": "Сортировать"
+   },
+   "sortBy": {
+      "message": "Сортировать по"
+   },
+   "stillProcessing": {
+      "message": "Все еще обрабатывается... Обработка большого количества электронных писем."
+   },
+   "stillSeeingUnwantedEmails": {
+      "message": "Все еще видите нежелательные письма? Используйте кнопки Супер Отписка или Супер Удаление прямо в Gmail."
+   },
+   "subscriptionLoadingTxt1": {
+      "message": "Сканирование вашего входящего ящика на предмет подписок..."
+   },
+   "subscriptionLoadingTxt10": {
+      "message": "Почти готово, завершаем формирование вашего списка подписок..."
+   },
+   "subscriptionLoadingTxt11": {
+      "message": "Сортировка по количеству полученных писем..."
+   },
+   "subscriptionLoadingTxt2": {
+      "message": "Составление списка ваших рассылок..."
+   },
+   "subscriptionLoadingTxt3": {
+      "message": "Сортировка ваших электронных писем..."
+   },
+   "subscriptionLoadingTxt4": {
+      "message": "Обнаружение ваших подписных писем..."
+   },
+   "subscriptionLoadingTxt5": {
+      "message": "Получение ваших подписок..."
+   },
+   "subscriptionLoadingTxt6": {
+      "message": "Поиск ваших любимых рассылок..."
+   },
+   "subscriptionLoadingTxt7": {
+      "message": "Анализирую ваш почтовый ящик..."
+   },
+   "subscriptionLoadingTxt8": {
+      "message": "Сбор данных о ваших подписках..."
+   },
+   "subscriptionLoadingTxt9": {
+      "message": "Подготовка сводки вашей подписки..."
+   },
+   "subscriptions": {
+      "message": "Подписки"
+   },
+   "subscriptionsFilterLabel": {
+      "message": "Подписки"
+   },
+   "success": {
+      "message": "Успех"
+   },
+   "superDelete": {
+      "message": "Супер Удаление"
+   },
+   "superDeleteTooltipText": {
+      "message": "Удаляет все электронные письма от выбранных отправителей, включая письма, которые в данный момент не видны."
+   },
+   "superUnsubscribe": {
+      "message": "Супер Отписаться"
+   },
+   "superUnsubscribeTooltipText": {
+      "message": "Массовая отписка от выбранных отправителей и, при желании, удаление всех их писем"
+   },
+   "thankYouForUsingInboxPurge": {
+      "message": "Спасибо за использование InboxPurge"
+   },
+   "theSelected": {
+      "message": "выбранный"
+   },
+   "thisMightTakeSomeTime": {
+      "message": "это может занять некоторое время..."
+   },
+   "toBeginOrganizing": {
+      "message": "Чтобы начать без усилий организовывать свой почтовый ящик."
+   },
+   "toDelete": {
+      "message": "Удалить"
+   },
+   "toDeleteAllEmails": {
+      "message": "Чтобы удалить ВСЕ электронные письма"
+   },
+   "toUnsubscribeAndDelete": {
+      "message": "Чтобы отписаться и при желании удалить из выбранных"
+   },
+   "today": {
+      "message": "Сегодня"
+   },
+   "unblock": {
+      "message": "Разблокировать"
+   },
+   "unblockConfirmation": {
+      "message": "Подтверждение Разблокировки"
+   },
+   "unblockLowerCase": {
+      "message": "разблокировать"
+   },
+   "unblockedFromSelectedList": {
+      "message": "Разблокированный выбранный список рассылки"
+   },
+   "unblocking": {
+      "message": "Разблокировка"
+   },
+   "uniqueSenders": {
+      "message": "уникальный(ые) отправитель(и)"
+   },
+   "unlimited": {
+      "message": "без ограничений"
+   },
+   "unlockUnlimitedAccessNow": {
+      "message": "Разблокируйте неограниченный доступ сейчас"
+   },
+   "unsubscribe": {
+      "message": "Отписаться"
+   },
+   "unsubscribeConfirmation": {
+      "message": "Подтверждение отписки"
+   },
+   "unsubscribeLowerCase": {
+      "message": "отписаться"
+   },
+   "unsubscribedFromSelectedList": {
+      "message": "Отписан от выбранного списка"
+   },
+   "unsubscribes": {
+      "message": "отписывается"
+   },
+   "unsubscribesAndDeletionsLeft": {
+      "message": "оставшиеся отписки/удаления"
+   },
+   "unsubscribing": {
+      "message": "Отписка"
+   },
+   "updatingDigest": {
+      "message": "Обновление дайджеста..."
+   },
+   "viewTailoredDigest": {
+      "message": "Просмотрите свои персонализированные дайджесты на основе указанных временных диапазонов: Сегодня, Последние 24 часа, Последние 7 дней или Последние 30 дней."
+   },
+   "waitingForYouToSignIn": {
+      "message": "Ждем, когда вы войдете в систему..."
+   },
+   "welcomeTo": {
+      "message": "Добро пожаловать в"
+   },
+   "whyGivePermissions": {
+      "message": "Почему?"
+   },
+   "withInboxPurge": {
+      "message": "с InboxPurge"
+   },
+   "writeReviewsMenuTxt": {
+      "message": "Написать Отзывы"
+   },
+   "youAreOnThe": {
+      "message": "Вы находитесь на"
+   },
+   "youCanBuyOneHere": {
+      "message": "Вы можете купить один здесь"
+   },
+   "youHave": {
+      "message": "У вас есть"
+   },
+   "youHaveSelectedMoreThan": {
+      "message": "Вы выбрали немного больше, чем осталось"
+   },
+   "youWantToTidyUpWith": {
+      "message": "вы хотите навести порядок с"
+   },
+   "yourBlockListIsEmpty": {
+      "message": "Ваш список блокировок пуст!"
+   },
+   "yourChangesMade": {
+      "message": "Ваши изменения были сделаны"
+   },
+   "yourSelectedNewsletters": {
+      "message": "Ваши выбранные новостные рассылки"
+   }
+}
